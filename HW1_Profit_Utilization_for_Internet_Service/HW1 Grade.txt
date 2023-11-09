@@ -1,0 +1,56 @@
+HW 1 Grade
+Graded By: XXXXXXXX
+Email: arafat@iastate.edu
+Office Hours: 1:30-3:30pm Tue, 1:00-3:00 Thu
+-------------Automated Score--------------
+
+------   Update a town for a year   ------
+testScenario[3]:	town15x15.txt	expected:<CASUAL> but was:<EMPTY> (-1 points)
+*****4 tests passed and 1 failed out of 5 total on Update a town for a year
+Raw Score: 4/5
+Normalized Score: 8.00/10
+------   Rule Tests   ------
+fileName: states/rules/casual_a.txt
+fileName: states/rules/casual_b.txt
+fileName: states/rules/streamer_a.txt
+fileName: states/rules/streamer_b.txt
+fileName: states/rules/reseller_a.txt
+fileName: states/rules/reseller_b.txt
+fileName: states/rules/outage_a.txt
+fileName: states/rules/empty_a.txt
+fileName: states/rules/additional_a.txt
+fileName: states/rules/additional_b.txt
+fileName: states/rules/default_a.txt
+*****11 tests passed and 0 failed out of 11 total on Rule Tests
+Raw Score: 11/11
+Normalized Score: 40.00/40
+------   ReadFile Tests   ------
+*****5 tests passed and 0 failed out of 5 total on ReadFile Tests
+Raw Score: 5/5
+Normalized Score: 5.00/5
+------   Main method test   ------
+*****6 tests passed and 9 failed out of 10 total on Main method test
+Raw Score: 9/10
+Normalized Score: 9.00/10
+
+Automated Score 64.0/65.0
+
+Manual Checks
+———————————————————————————————
+= 35/35
+Issues:
+
+10/10: wrong zip structure.
+15/15 JUnit test
+10/10 commenting new classes (the extensions of TownCell) 2% per class
+
+Submission Bonus points: 0/10
+————————————————————————————————————————
++TOTAL GRADE
+= 99/100
+————————————————————————————————————————
+Comments: 
+	* Excellent work!
+.
+ 
+  

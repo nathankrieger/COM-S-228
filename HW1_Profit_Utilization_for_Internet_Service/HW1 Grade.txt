@@ -1,7 +1,5 @@
 HW 1 Grade
-Graded By: XXXXXXXX
-Email: arafat@iastate.edu
-Office Hours: 1:30-3:30pm Tue, 1:00-3:00 Thu
+
 -------------Automated Score--------------
 
 ------   Update a town for a year   ------

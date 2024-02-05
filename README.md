@@ -8,6 +8,8 @@ HW2 - Sorting 2D Integer Points
 
 HW3 - StoutList
 
+HW4 - Archived Message Reconstruction
+
 Grades Received:
 
   HW1: 99%
